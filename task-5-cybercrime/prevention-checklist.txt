@@ -1,0 +1,61 @@
+﻿TASK 5 B
+DIGITAL LITERACY 
+‘STAY SAFE ONLINE’ CHECKLIST
+Name of Student: Debasmita Ghosh
+Registration Number: 25BOE10075
+Course: Digital Literacy 
+Course Code: CSE0001
+
+
+ Stay Safe Online 
+Report cybercrime at cybercrime.gov.in or call helpline 1930
+ General Online Safety
+1. Use strong, unique passwords for every account
+
+   * Avoid using your name, birthday, or "1234"
+   * Use a mix of letters, numbers, and symbols
+   * Consider a password manager like Bitwarden (free)
+
+
+   2. Enable Two-Factor Authentication (2FA) everywhere
+   * Especially on Gmail, Instagram, and any app linked to your bank
+   * Prefer an authenticator app over SMS-based OTP when possible
+
+
+   3. Never click on suspicious links — even from friends
+   * Phishing links are often disguised as Google Forms, scholarship portals, or discount offers
+   * Always check the URL before entering any personal information
+
+
+   4. Don't use public Wi-Fi for sensitive activities
+   * Avoid logging into banking apps or entering passwords on café or college Wi-Fi
+   * Use your mobile data or a trusted VPN instead
+
+
+   5. Regularly review app permissions on your phone
+   * Many apps request access to contacts, camera, and location unnecessarily
+   * Go to Settings → Apps → Permissions and revoke what isn't needed
+
+
+   6. Be cautious about what you share on social media
+
+      * Avoid posting your phone number, address, college ID, or daily schedule publicly
+      * Scammers often use public profiles to build targeted fraud attempts
+ Financial & UPI Safety (Must-Read)
+      7. Never share your UPI PIN, OTP, or bank details with anyone — ever
+
+         * Legitimate banks, Google Pay, PhonePe, or NPCI will never ask for your PIN
+         * Receiving money on UPI does NOT require entering your PIN — if someone tells you otherwise, it's a scam
+
+
+         8. Double-check UPI IDs and phone numbers before transferring money
+
+            * Scammers create UPI IDs that look almost identical to real ones (e.g., support@icic1 instead of support@icici)
+            * For any amount above ₹500, verify the receiver's name shown after entering the UPI ID before confirming
+
+
+For emergencies
+Report immediately at:
+            * cybercrime.gov.in — File a complaint online for any cyber fraud
+            *  Helpline 1930 — Call to report financial fraud and freeze transactions quickly
+The faster you report financial fraud, the higher the chance of recovering your money.
