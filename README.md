@@ -56,8 +56,7 @@ digital-literacy-project/
 │
 ├── task-3-platforms/
 │   ├──README.md                           ←Readme file of Task
-│   ├── Completed Challenges.png           ← Completed challenge screenshot
-│   ├── badge.png                          ← Badge / score screenshot
+│   ├── Hackerrank.png                     ← effective use of Hackerrank screenshot
 │   ├── Google Form.jpg                    ← Google Form screenshot
 │   └── Response Sheet.jpg                 ← Linked Google Sheet screenshot
 │
@@ -80,7 +79,7 @@ digital-literacy-project/
 ### ✅ Task 1 – Digital Literacy Awareness Infographic
 > *Module 1 | 20 marks*
 
-Created a one-page infographic using **Canva** covering three core digital literacy topics: What is Digital Literacy?, Why it matters?, Useful Digital Tools, Safe Internet Practices, Email Etiquette, Professional Online Presence
+Created a one-page infographic using **Canva** covering five core digital literacy topics: What is Digital Literacy?, Why it matters?, Useful Digital Tools, Safe Internet Practices, Email Etiquette, Professional Online Presence
 📂 Files: [`task-1-presentation/`](./task-1-presentation/)
 
 ---
@@ -141,7 +140,7 @@ A Do's and Don'ts checklist for responsible social media use as a college studen
 **Part A – Case Study:**
 The following case study examines a UPI payment fraud incident through a fictional scenario, illustrating how a simple gap in digital awareness can lead to significant financial loss and the importance of knowing how the tools we use daily actually work.
 **Part B – Prevention Checklist:**
-*Stay Safe Online* checklist with 12 actionable tips for Indian college students, 4 UPI/financial safety tips, a step-by-step victim response guide, and official reporting channels.
+*Stay Safe Online* checklist with a multitude of actionable tips for Indian college students, including UPI/financial safety tips, and official reporting channels.
 
 > 🚨 **Report cybercrime at [cybercrime.gov.in](https://cybercrime.gov.in) or call 1930**
 
