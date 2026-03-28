@@ -51,8 +51,8 @@ digital-literacy-project/
 │   ├──README.md                           ←Readme file of Task
 │   ├── kaggle-profile.png                 ← Screenshot of Kaggle profile
 │   ├── linkedin-profile.png               ← Screenshot of LinkedIn profile
-│   ├── Research Gate-profile.png          ← Screenshot of Kaggle profile
-│   └── Project Report Task 2.md           ← Brief description
+│   ├── ResearchGate-profile.png           ← Screenshot of ResearchGate profile
+│   
 │
 ├── task-3-platforms/
 │   ├──README.md                           ←Readme file of Task
