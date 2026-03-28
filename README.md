@@ -46,11 +46,10 @@ digital-literacy-project/
 │
 ├── task-1-presentation/
 │   ├── digital-literacy-infographic.svg   ← Exported infographic (Canva)
-│   └── Project Report Task 1.pdf          ← Brief description
 │
 ├── task-2-portfolio/
 │   ├──README.md                           ←Readme file of Task
-│   ├── github-profile.png                 ← Screenshot of GitHub profile
+│   ├── kaggle-profile.png                 ← Screenshot of Kaggle profile
 │   ├── linkedin-profile.png               ← Screenshot of LinkedIn profile
 │   ├── Research Gate-profile.png          ← Screenshot of Kaggle profile
 │   └── Project Report Task 2.md           ← Brief description
@@ -61,14 +60,12 @@ digital-literacy-project/
 │   ├── badge.png                          ← Badge / score screenshot
 │   ├── Google Form.jpg                    ← Google Form screenshot
 │   └── Response Sheet.jpg                 ← Linked Google Sheet screenshot
-│   └── Project Report Task 3.md           ← Brief description
 │
 ├── task-4-email-etiquette/
 │   ├──README.md                           ←Readme file of Task
 │   ├── Email 1.md                         ←professional email drafts 1
 │   ├── Email 2.md                         ←professional email drafts 2
 │   └── Social Media Checklist.md          ← Social media Do's and Don'ts
-│   └── Project Report Task 4.md           ← Brief description
 │
 └── task-5-cybercrime/
     ├──README.md                           ←Readme file of Task
@@ -95,7 +92,7 @@ Set up professional profiles on three platforms to build a foundational digital 
 
 | Platform | Purpose | Profile Link |
 |---|---|---|
-| **ResearchGate** | Share research papers, Follow ongoing studies | *(your GitHub profile URL)* |
+| **ResearchGate** | Share research papers, Follow ongoing studies | *(your ResearchGate profile URL)* |
 | **LinkedIn** | Professional networking, internships | *(your LinkedIn URL)* |
 | **Kaggle** | Data science learning and competitions | *(your Kaggle URL)* |
 
